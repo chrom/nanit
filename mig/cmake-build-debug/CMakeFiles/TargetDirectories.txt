@@ -1,0 +1,3 @@
+/home/ratio/projects/arduino/mig/cmake-build-debug/CMakeFiles/mig.dir
+/home/ratio/projects/arduino/mig/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ratio/projects/arduino/mig/cmake-build-debug/CMakeFiles/rebuild_cache.dir

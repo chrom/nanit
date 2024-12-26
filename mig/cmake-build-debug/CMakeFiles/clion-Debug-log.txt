@@ -1,0 +1,5 @@
+/home/ratio/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/ratio/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/ratio/projects/arduino/mig -B /home/ratio/projects/arduino/mig/cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error: CMake can not determine linker language for target: mig
+-- Generating done (0.0s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.
